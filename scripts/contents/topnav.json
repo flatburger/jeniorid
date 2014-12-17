@@ -4,28 +4,29 @@
 		"link": "#/"
 	},
 	{
-		"name": "Products",
+		"name": "Sejarah Jeni",
 		"link": "javascript:",
-		"target": "#products"
+		"target": "#historyjeni"
 	},
 	{
-		"name": "Services",
+		"name": "Kurikulum Jeni",
 		"link": "javascript:",
-		"target": "#service"
+		"target": "#curriculum"
 	},
 	{
-		"name": "Training",
+		"name": "Komunitas",
 		"link": "javascript:",
-		"target": "#training"
+		"target": "#communityjeni"
 	},
 	{
-		"name": "Online Services",
+		"name": "Sertifikasi",
 		"link": "javascript:",
-		"target": "#online-services"
+		"target": "#certifications"
 	},
 	{
-		"name": "Masuk/Daftar",
-		"link": "#/login"
+		"name": "Kontributor",
+		"link": "javascript:",
+		"target": "#contributor"
 	},
 	{
 		"name": "Hubungi Kami",
