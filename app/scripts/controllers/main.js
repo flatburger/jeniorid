@@ -18,7 +18,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'JENI (Java Education Network Indonesia)',
     			'description': 'Layanan integratif bagi mahasiswa di Indonesia, untuk mempelajari, berbagi dan mengembangkan solusi berbasis Java.',
-    			'faClass': 'icon-dice',
+    			'faClass': 'icon-blog',
                 'link': '#historyjeni'
     		},
     		{
@@ -34,7 +34,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Komunitas JENI',
     			'description': 'Silahkan bergabung dengan kami untuk berdiskusi mengenai teknologi Java terbaru dan permasalah anda mengenai Java.',
-    			'faClass': 'icon-copy2',
+    			'faClass': 'icon-users2',
                 'link': '#communityjeni'
     		},
             {
